@@ -39,7 +39,7 @@ Nike Training Club, Freeletics, Fitbod
 ### REQUISITI NON FUNZIONALI
 #### Performance
 - Tempo di risposta massimo per il caricamento di pagine: 2 secondi.
-- Tempo di risposta per il download delle schede: 3 secondi.
+- Tempo di risposta massimo per il download delle schede: 3 secondi.
 - Supporto simultaneo di almeno 1000 utenti attivi.
 - Funzionalità ottimizzate sia per mobile che per PC.
 
