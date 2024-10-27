@@ -3,7 +3,7 @@
 My Personal Trainer è un'applicazione disponibile su mobile e PC che offre un'esperienza di personal training virtuale, che fornisce schede di allenamento mirate e schede nutrizionali.
 
 ## TAGLINE
-Il tuo personal trainer e nutrizionista a portata di cick
+Il tuo personal trainer e nutrizionista a portata di click
 
 ## PROBLEMA RISOLTO
 Necessità di avere un accesso facile alle proprie schede nutrizionali e di allenamento, ovunque ci si trovi
@@ -35,6 +35,7 @@ Nike Training Club, Freeletics, Fitbod
 - Gestione degli acquisti e rinnovi dei servizi.
 - Monitoraggio dei contenuti e segnalazioni di eventuali problemi.
 
+
 ### REQUISITI NON FUNZIONALI
 #### Performance
 - Tempo di risposta massimo per il caricamento di pagine: 2 secondi.
@@ -57,6 +58,7 @@ Nike Training Club, Freeletics, Fitbod
 - Uptime garantito al 99.9%.
 - Sistema di backup e recupero dati in caso di errori.
 - Monitoraggio del sistema per rilevamento e risoluzione tempestiva di errori.
+
 
 ### REQUISITI DI DOMINIO
 #### Gestione Servizi
