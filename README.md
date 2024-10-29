@@ -14,7 +14,7 @@ Nike Training Club, Freeletics, Fitbod
 ## REQUISITI
 ### REQUISITI FUNZIONALI
 
-![Diagramma dei casi d'uso](http://yuml.me/rick/diagram/plain/usecase/.svg)
+![Diagramma dei casi d'uso](https://yuml.me/rick/5a92ba13.svg)
 
 #### Gestione Utenti
 - Registrazione nuovo utente (nickname, email e password obbligatori).
