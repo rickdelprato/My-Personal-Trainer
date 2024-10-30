@@ -14,7 +14,7 @@ Nike Training Club, Freeletics, Fitbod
 ## REQUISITI
 ### REQUISITI FUNZIONALI
 
-![Diagramma dei casi d'uso](https://yuml.me/rick/5a92ba13.svg)
+![Diagramma dei casi d'uso](https://yuml.me/rick/My-Personal-Trainer.svg)
 
 #### Gestione Utenti
 - Registrazione nuovo utente (nickname, email e password obbligatori).
@@ -31,6 +31,7 @@ Nike Training Club, Freeletics, Fitbod
 #### Accesso ai Contenuti
 - Accesso alle schede di allenamento acquistate.
 - Accesso alle schede nutrizionali acquistate.
+- Accesso ai video delle esecuzioni degli esercizi (se presenti).
 - Download o visualizzazione dei contenuti sul dispositivo (mobile o PC).
 
 #### Amministrazione
