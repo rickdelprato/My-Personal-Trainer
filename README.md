@@ -1,16 +1,12 @@
 ## Elevator Pitch
 
-![Slide 1](Elevator Pitch/Screenshot 2025-05-25 232451.png)
-![Slide 2](Elevator Pitch/Screenshot 2025-05-25 232537.png)
-![Slide 3](Elevator Pitch/Screenshot 2025-05-25 232600.png)
-![Slide 4](Elevator Pitch/Screenshot 2025-05-25 232618.png)
-![Slide 5](Elevator Pitch/Screenshot 2025-05-25 232630.png)
-![Slide 6](Elevator Pitch/Screenshot 2025-05-25 232644.png)
-![Slide 7](Elevator Pitch/Screenshot 2025-05-25 232654.png)
-
-![Slide 1](presentation/slide1.png)
-![Slide 2](presentation/slide2.png)
-![Slide 3](presentation/slide3.png)
+![Slide 1](Elevator%20Pitch/Screenshot%202025-05-25%20232451.png)
+![Slide 2](Elevator%20Pitch/Screenshot%202025-05-25%20232537.png)
+![Slide 3](Elevator%20Pitch/Screenshot%202025-05-25%20232600.png)
+![Slide 4](Elevator%20Pitch/Screenshot%202025-05-25%20232618.png)
+![Slide 5](Elevator%20Pitch/Screenshot%202025-05-25%20232630.png)
+![Slide 6](Elevator%20Pitch/Screenshot%202025-05-25%20232644.png)
+![Slide 7](Elevator%20Pitch/Screenshot%202025-05-25%20232654.png)
 
 # My-Personal-Trainer - by Riccardo Delprato
 ## DESCRIZIONE
