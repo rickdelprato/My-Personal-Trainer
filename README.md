@@ -5,6 +5,9 @@ My Personal Trainer è un'applicazione disponibile su mobile e PC che offre un'e
 ## TAGLINE
 Il tuo personal trainer e nutrizionista a portata di click
 
+## TARGET
+Chiunque voglia allenarsi o alimentarsi bene senza dover per forza andare in palestra
+
 ## PROBLEMA RISOLTO
 Necessità di avere un accesso facile alle proprie schede nutrizionali e di allenamento, ovunque ci si trovi
 
@@ -14,7 +17,7 @@ Nike Training Club, Freeletics, Fitbod
 ## REQUISITI
 ### REQUISITI FUNZIONALI
 
-![Diagramma dei casi d'uso](https://yuml.me/rick/My-Personal-Trainer.svg)
+![Diagramma dei casi d'uso]([https://yuml.me/rick/My-Personal-Trainer.svg](https://yuml.me/rick/My-Personal-Trainer.svg))
 
 #### Gestione Utenti
 - Registrazione nuovo utente (nickname, email e password obbligatori).
