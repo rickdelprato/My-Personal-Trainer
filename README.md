@@ -30,6 +30,8 @@ Nike Training Club, Freeletics, Fitbod
 - Acquisto di schede nutrizionali basate su obiettivi specifici.
 - Acquisto di pacchetto combinato (allenamento e nutrizione).
 - Visualizzazione e gestione dei servizi acquistati.
+- Categorizzazione dei piani di allenamento e nutrizione per obiettivi specifici (es. perdita peso, aumento massa muscolare, mantenimento).
+- Le schede sono create da professionisti certificati, aggiunte nell'app dall'amministratore.
 
 #### Accesso ai Contenuti
 - Accesso alle schede di allenamento acquistate.
@@ -42,11 +44,10 @@ Nike Training Club, Freeletics, Fitbod
 - Gestione degli acquisti e rinnovi dei servizi.
 - Monitoraggio dei contenuti e segnalazioni di eventuali problemi.
 
-
 ### REQUISITI NON FUNZIONALI
 #### Performance
-- Tempo di risposta massimo per il caricamento di pagine: 2 secondi.
-- Tempo di risposta massimo per il download delle schede: 3 secondi.
+- Tempo di risposta massimo per il caricamento di pagine: 0.5 secondi.
+- Tempo di risposta massimo per il download delle schede: 0.5 secondi.
 - Supporto simultaneo di almeno 1000 utenti attivi.
 - Funzionalità ottimizzate sia per mobile che per PC.
 
@@ -54,7 +55,6 @@ Nike Training Club, Freeletics, Fitbod
 - Criptazione delle password.
 - Verifica email durante la registrazione.
 - Backup settimanali dei dati utente e dei contenuti.
-- Protezione contro attacchi DDoS.
 
 #### Usabilità
 - Interfaccia user-friendly, responsive su mobile e PC.
@@ -66,13 +66,7 @@ Nike Training Club, Freeletics, Fitbod
 - Sistema di backup e recupero dati in caso di errori.
 - Monitoraggio del sistema per rilevamento e risoluzione tempestiva di errori.
 
-
 ### REQUISITI DI DOMINIO
-#### Gestione Servizi
-- Struttura dei contenuti adattata a differenti livelli di fitness e obiettivi nutrizionali.
-- Categorizzazione dei piani di allenamento e nutrizione per obiettivi specifici (es. perdita peso, aumento massa muscolare, mantenimento).
-- Supporto per aggiornamenti periodici delle schede.
-
 #### Conformità
 - Conformità con il GDPR per la gestione dei dati personali.
 - Informative chiare sui termini di utilizzo e licenze dei contenuti.
