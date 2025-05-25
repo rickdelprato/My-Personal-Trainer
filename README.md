@@ -8,6 +8,10 @@
 ![Slide 6](Elevator Pitch/Screenshot 2025-05-25 232644.png)
 ![Slide 7](Elevator Pitch/Screenshot 2025-05-25 232654.png)
 
+![Slide 1](presentation/slide1.png)
+![Slide 2](presentation/slide2.png)
+![Slide 3](presentation/slide3.png)
+
 # My-Personal-Trainer - by Riccardo Delprato
 ## DESCRIZIONE
 My Personal Trainer è un'applicazione disponibile su mobile e PC che offre un'esperienza di personal training virtuale, che fornisce schede di allenamento mirate e schede nutrizionali.
