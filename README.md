@@ -88,3 +88,9 @@ Nike Training Club, Freeletics, Fitbod
 - Conformità con il GDPR per la gestione dei dati personali.
 - Informative chiare sui termini di utilizzo e licenze dei contenuti.
 - Possibilità di recesso o cancellazione dell’abbonamento secondo le normative.
+
+---
+
+## Wireframe
+
+![Slide 1](Wireframe/IMG_5325.jpg)
