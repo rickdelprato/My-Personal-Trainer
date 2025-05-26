@@ -1,7 +1,7 @@
 ## Elevator Pitch
 
 ![Slide 1](Elevator%20Pitch/Screenshot%202025-05-25%20232451.png)
----
+--
 ![Slide 2](Elevator%20Pitch/Screenshot%202025-05-25%20232537.png)
 ---
 ![Slide 3](Elevator%20Pitch/Screenshot%202025-05-25%20232600.png)
