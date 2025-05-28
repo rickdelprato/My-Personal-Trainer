@@ -8,11 +8,9 @@
 ---
 ![Slide 4](Elevator%20Pitch/Screenshot%202025-05-25%20232618.png)
 ---
-![Slide 5](Elevator%20Pitch/Screenshot%202025-05-25%20232630.png)
+![Slide 5](Elevator%20Pitch/Screenshot%202025-05-25%20232644.png)
 ---
-![Slide 6](Elevator%20Pitch/Screenshot%202025-05-25%20232644.png)
----
-![Slide 7](Elevator%20Pitch/Screenshot%202025-05-25%20232654.png)
+![Slide 6](Elevator%20Pitch/Screenshot%202025-05-25%20232654.png)
 ---
 
 # My-Personal-Trainer - by Riccardo Delprato
